@@ -1,0 +1,16 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Editeurs / IDE
+.vscode/
+.idea/
+
+# Dépendances JavaScript (si jamais tu utilises Node plus tard)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Fichiers temporaires
+*.log
